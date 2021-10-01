@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+"float like a butterfl,sing like a bee - Muhamad Ali
 
 Use the left arrow to go back!
